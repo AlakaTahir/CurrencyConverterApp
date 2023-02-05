@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\bin\Debug\netcoreapp3.1\Converter.Migrations.deps.json
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\bin\Debug\netcoreapp3.1\Converter.Migrations.runtimeconfig.json
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\bin\Debug\netcoreapp3.1\Converter.Migrations.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\bin\Debug\netcoreapp3.1\Converter.Migrations.dll
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\bin\Debug\netcoreapp3.1\Converter.Migrations.pdb
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\bin\Debug\netcoreapp3.1\Converter.Model.dll
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\bin\Debug\netcoreapp3.1\Converter.Model.pdb
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.dll
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.pdb
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Migrations\obj\Debug\netcoreapp3.1\Converter.Migrations.genruntimeconfig.cache

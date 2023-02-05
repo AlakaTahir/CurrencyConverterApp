@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\bin\Debug\netcoreapp3.1\Converter.Service.deps.json
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\bin\Debug\netcoreapp3.1\Converter.Service.dll
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\bin\Debug\netcoreapp3.1\Converter.Service.pdb
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\obj\Debug\netcoreapp3.1\Converter.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\obj\Debug\netcoreapp3.1\Converter.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\obj\Debug\netcoreapp3.1\Converter.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\obj\Debug\netcoreapp3.1\Converter.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\obj\Debug\netcoreapp3.1\Converter.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\obj\Debug\netcoreapp3.1\Converter.Service.dll
+C:\Users\HP\Desktop\Practice\CurrencyConverterAPP\Converter.Service\obj\Debug\netcoreapp3.1\Converter.Service.pdb
