@@ -8,5 +8,6 @@ namespace Converter.Model.ViewModel
     {
         public bool Status { get; set; }
         public string Message { get; set; }
+        public  string Note { get; set; }
     }
 }

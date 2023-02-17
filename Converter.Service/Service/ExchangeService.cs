@@ -24,7 +24,7 @@ namespace Converter.Service.Service
 
             if (currencyToDetail.CurrencySymbol.ToUpper() == "USD")
             {            
-                answer = model.Amount/currencyFromDetail.ToDollarRate;
+                answer = model.Amount * currencyFromDetail.ToDollarRate;
                 return new ExchangeResponseViewModel
                 {
                     Answer = answer,
@@ -35,8 +35,8 @@ namespace Converter.Service.Service
             else
             {
                 //ngn ==> pounds  ngn ==> usd   2usd ==>  2 * 0.9pound
-                var dollarAmount = model.Amount / currencyFromDetail.ToDollarRate;
-                answer = dollarAmount * currencyToDetail.ToDollarRate;
+                var dollarAmount = model.Amount * currencyFromDetail.ToDollarRate;
+                answer = dollarAmount / currencyToDetail.ToDollarRate;
 
                 return new ExchangeResponseViewModel
                 {
