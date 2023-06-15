@@ -17,7 +17,7 @@ namespace Converter.API.Controllers
         }
 
         [HttpPost("CreateConverter")]
-        public IActionResult CreateCoverter(CurrencyInformationRequestModel model)
+        public IActionResult CreateCovert(CurrencyInformationRequestModel model)
         {
             var response = _currencyInformationService.CreateConverter(model);
             return Ok(response);
